@@ -4,10 +4,11 @@
 
 - Water
 - Rodent
+- Salt
 
 
 ## Instructions
 
 - Find rodent
-- Put rodent in hot water
+- Put rodent in hot, salty water
 - Enjoy
