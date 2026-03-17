@@ -4,7 +4,7 @@
 
 - Water
 - Rodent
-- Acid
+- Sea salt
 
 
 ## Instructions
